@@ -1,0 +1,10 @@
+data.000.txt	Cmax: 221	czas wykonania: 7.69904e-006
+data.001.txt	Cmax: 3026	czas wykonania: 5.42985e-005
+data.002.txt	Cmax: 3654	czas wykonania: 5.51089e-005
+data.003.txt	Cmax: 3309	czas wykonania: 2.06658e-005
+data.004.txt	Cmax: 3172	czas wykonania: 5.75402e-005
+data.005.txt	Cmax: 3618	czas wykonania: 5.42985e-005
+data.006.txt	Cmax: 3439	czas wykonania: 5.87558e-005
+data.007.txt	Cmax: 3820	czas wykonania: 4.0116e-005
+data.008.txt	Cmax: 3633	czas wykonania: 3.97108e-005
+Calkowity czas wykonania: 0.000388194
